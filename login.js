@@ -17,4 +17,4 @@ loginForm.addEventListener('submit', function (e) {
     } else {
         alert('Incorrect Email or Password!');
     }
-});
+}):
